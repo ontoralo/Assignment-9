@@ -1,0 +1,443 @@
+.top-header{
+	background: url(../images/header-back-big.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:20px 0px;
+}
+.navbar {
+	float: right;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+.navbar-light .navbar-toggler {
+	color:#fff;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+	color: #ed145b !important;
+}
+
+.top-line-one{
+	display: block;
+	border-bottom: 1px solid #ed145b;
+	width: 10%;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+.top-header-content{
+	text-align: center;
+	color: white;
+	padding: 20% 0%;
+}
+.top-para-one{
+	padding: 20px 0px;
+}
+.btn-one{
+	color: white;
+	font-weight: 700;
+	background-color: #ed145b;
+	border: none;
+	border-radius: 50px;
+	font-size: 12px;
+	padding: 10px 30px;
+}
+.top-line-two{
+	display: block;
+	border-bottom: 1px solid #ed145b;
+	width: 20%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+.top-header-content{
+	text-align: center;
+	color: white;
+	padding: 20% 0%;
+}
+.top-para-two{
+	padding: 20px 0px;
+}
+.btn-two{
+	color: #ed145b;
+	font-weight: 700;
+	background-color: transparent;
+	border: none;
+	font-size: 16px;
+	padding: 10px 30px;
+}
+.service-content{
+	text-align: center;
+	color: #000;
+	padding: 8% 0%;
+}
+.top-para-three{
+	padding: 20px 0px;
+}
+.btn-three{
+	color: #ed145b;
+	font-weight: 700;
+	background-color: transparent;
+	border: none;
+	font-size: 16px;
+	padding: 10px 30px;
+}
+.top-line-three{
+	display: block;
+	margin: 0 auto;
+	border-bottom: 1px solid #ed145b;
+	width: 33%;
+	padding-top:5px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+
+.service-icon-cont{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.service-icon-img{
+	background-color: transparent;
+	border-radius: 50%;
+	border:2px solid black;
+	width: 140px;
+	height: 140px;
+	position: relative;
+	margin: 0 auto;
+
+}
+.service-icon-img-one{
+	position: absolute;
+	top: 42px;
+	left: 42px;
+}
+.service-icon-content-one{
+	text-align: center;
+	width: 100%;
+	padding-top: 15px;
+	display: inline-block;
+	color: #ed145b;
+}
+
+/* Carrosol Starts */
+.carrosol{	
+	background: url(../images/header-back.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:20px 0px;
+
+}
+.top-header-content-last{
+	padding: 50px 0px;
+}
+
+
+
+
+
+/* Carrosol End */
+.carousel-inner{
+	color: white;
+	text-align: center;
+}
+.carousel-quote{
+	color: #ed145b;
+	font-size: 70px;
+	padding: 20px 0px;
+}
+
+
+
+ /* Our Price Start */ 
+ .our-price{
+ 	background-color: #f4f4f4;
+ }
+.price-content{
+	text-align: center;
+	color: #000;
+	padding: 8% 0%;
+}
+.top-para-four{
+	padding: 20px 0px;
+}
+
+.top-line-four{
+	display: block;
+	margin: 0 auto;
+	border-bottom: 1px solid #ed145b;
+	width: 33%;
+	padding-top:5px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+.price-box-main{
+	background-color: #fff;
+	width: 100%;
+	height:430px;
+}
+.price-box-top{
+	background-color: #5a5a5a;
+	width: 100%;
+	height: 130px;
+}
+.price-box-top:hover{
+	background-color: #ed145b;
+
+}
+.price-box-cont{
+	font-size: 50px;
+	color: white;
+}
+.price-box-cont-p{
+	font-size: 18px;
+	color: white;
+}
+.price-box-cont-p-two {
+    font-size: 18px;
+    color: white;
+    margin-top: -30px;
+}
+.price-btn-second{
+	position: relative;
+}
+
+.btn-four{
+	position: absolute;
+	color: #5a5a5a;
+	font-weight: 700;
+	background-color: #f4f4f4;
+	border-radius: 35px;
+	border: none;
+	font-size: 16px;
+	padding: 8px 50px;
+	left: 17%;
+	top:-20px;
+}
+.btn-five{
+	color: white;
+	font-weight: 700;
+	background-color: #ed145b;
+	border-radius: 35px;
+	border: none;
+	font-size: 16px;
+	padding: 8px 50px;
+}
+.price-box-cont-bt{
+	font-size: 16px;
+	color: #5a5a5a;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+
+ /* Our Price End */
+
+  /* Feature Section Stats */
+  .feature-list{
+  	padding-top: 30px;
+  	padding-bottom: 70px;
+ }
+
+ .feature-img{
+ 	float: left;
+ 	padding-top: 60px;
+ }
+ .feature-cont{
+ 	float: left;
+ 	color: black;
+ }
+ .feature-cont-hd{
+ 	color: #ed145b;
+ 	padding-bottom: 10px;
+ 	padding-top: 40px
+ }
+
+   /* Feature Section End */
+
+     /* Feature Section Starts */
+
+  .joinus{
+  	background-color:#ed145b;
+  }
+  .joinus-cont{
+  	color: white;
+  	padding: 50px 0px;
+  	text-transform: uppercase;
+  	font-size: 35px;
+  }
+  .joinus-mache{
+  	font-weight: 700;
+  }
+  .joinus-btn{
+  	color: #ed145b;
+	background-color: #fff;
+	font-weight: 700;
+	border-radius: 35px;
+	border: none;
+	font-size: 14px;
+	padding: 13px 50px;
+	text-transform: uppercase;
+	margin-top: 55px;
+	float: right;
+  }
+/* Feature Section End */
+
+/* News Section Start */
+.news{
+	padding: 100px 0px;
+}
+.news-cont{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.news-imgs-one{
+	position: relative;
+}
+.news-imgs-two{
+	width: 100%;
+}
+.news-imgs-one .hover-box{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: #ed145bd9;
+	overflow: hidden;
+	transition: 0.3s;
+
+}
+.news-imgs-one .hover-box i{
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	top: 40%;
+	left: 40%;
+	transition: 0.5s;
+}
+.news-imgs-one:hover .hover-box{
+	display: block;
+	height: 100%;
+}
+.imags-conte{
+	background-color: #f4f4f4;
+	padding: 10px 15px;
+	margin-bottom: 30px;
+	color: #5a5858;
+}
+
+.btn-six{
+	color: #ed145b;
+	font-weight: 700;
+	background-color: transparent;
+	text-transform: uppercase;
+	border: none;
+	font-size: 14px;
+	padding: 10px 30px;
+}
+.showmore button{
+	display: block;
+	color: #ed145b;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+
+/* News Section End */
+
+
+/* Footer Banner Starts */
+
+
+
+
+.foot-line-one{
+	display: block;
+	border-bottom: 1px solid #ed145b;
+	width: 25%;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+.foot-header-content{
+	text-align: center;
+	color: white;
+	padding: 8% 0%;
+}
+.foot-para-one{
+	padding: 20px 0px;
+}
+
+
+
+/* Footer Banner End */
+
+/* Download Section Start */
+.download-sec{
+	padding: 70px 0px;
+}
+
+.down-cont{
+	padding: 0px 50px;
+}
+.down-para-three{
+	padding: 20px 0px;
+}
+.down-btn-three{
+	color: white;
+	font-weight: 700;
+	background-color: #ed145b;
+	border: none;
+	border-radius: 50px;
+	font-size: 12px;
+	padding: 10px 30px;
+}
+.down-line-three{
+	display: block;
+	border-bottom: 1px solid #ed145b;
+	width: 33%;
+	padding-top:5px;
+	padding-bottom: 10px;
+	border-color: #ed145b;
+}
+/* Download Section End */
+
+/* Copyright Section Starts */
+.copyright-sec{
+	padding: 30px 0px;
+	background-color: #2b2b2b;
+}
+
+.copy-cont-left{
+	padding: 0px 50px;
+	color: white;
+	padding-left: 15%;
+}
+.copy-cont-right{
+	padding: 0px;
+	margin: 0px;
+	text-align:right;
+    color: white;
+}
+}
+.copy-pera{
+
+	color: white;
+	text-align: right;
+}
+.copy-cont-img{
+	padding-left: 4px;
+	margin: 0px;
+	float: left;
+}
+
+
+
+/* Copyright Section End */
+
+
+
+
